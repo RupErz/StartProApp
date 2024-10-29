@@ -1,0 +1,17 @@
+[33mcommit fd1435aaeb609748a292f2e897b2086664c1e66e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Nghia <nghiavu144@gmail.com>
+Date:   Mon Oct 28 21:13:24 2024 -0500
+
+    Heading -hero feature added, no button
+
+[33mcommit 7c1207cbe191693d6712c461523d63df5e4f476f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Nghia <nghiavu144@gmail.com>
+Date:   Sun Oct 27 19:55:39 2024 -0500
+
+    Implement NavBar and Font
+
+[33mcommit 0e3c1ee58507f4f5efbdec2bc4a4efd1f05fe003[m
+Author: Nghia <nghiavu144@gmail.com>
+Date:   Sun Oct 27 16:16:01 2024 -0500
+
+    First commit for my start up app
