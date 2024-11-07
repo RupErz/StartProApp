@@ -3,7 +3,7 @@
 import { Input } from "@/components/ui/input";
 import { useActionState, useState } from "react";
 import { Textarea } from "@/components/ui/textarea";
-import MDEditor from "@uiw/react-md-editor";
+import MDEditor from '@uiw/react-md-editor';
 import { Button } from "@/components/ui/button";
 import { Send } from "lucide-react";
 import { formSchema } from "@/lib/validation";
