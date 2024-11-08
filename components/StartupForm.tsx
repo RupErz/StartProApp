@@ -106,7 +106,7 @@ const StartupForm = () => {
 
             <div>
                 <label htmlFor="link" className="startup-form_label">Image URL</label>
-                <Input id="link" name="link" className="startup-form_input" required placeholder="Startup Image URL" />
+                <Input id="link" name="link" className="startup-form_input" required placeholder="Startup Image URL (use Unsplash, Pexels, etc if you have trouble)" />
 
                 {errors.link && <p className="startup-form_error">{errors.link}</p>}
             </div>
